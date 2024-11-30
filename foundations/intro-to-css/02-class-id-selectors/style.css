@@ -1,0 +1,21 @@
+.css {
+    background-color: lightpink;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#css {
+    color: blue;
+    font-size: 36px;
+}
+
+#add {
+    font-size: 24px;
+    background-color: lightpink;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#css-two {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
